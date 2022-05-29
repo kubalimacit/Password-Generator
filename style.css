@@ -57,9 +57,7 @@ body{
       display: flex;
       background-color:#D7F3C3;
       flex-direction: column;
-      width: 25%;
-      margin-top: 10%;
-      margin-left: 35%;
+      width: 45%;
       border-radius: 15px;
       font-family: "Ubuntu";
       padding-bottom: 1%;
@@ -80,9 +78,9 @@ body{
         display: flex;
         background-color: #D7F3C3;
         flex-direction: row;
-        width: 17%;
+        width: 35%;
         margin-top: 1%;
-        margin-left: 38%;
+        margin-left: 0%;
         border-radius: 15px;
         font-family: "Ubuntu";
         padding-left: 45px;
